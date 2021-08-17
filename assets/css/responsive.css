@@ -1,0 +1,798 @@
+@media(max-width:1250px){
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    #banner h1{
+        width: 100%;
+        font-size: 70px;
+        text-align: center;
+        margin: 33px auto;
+    }
+    .card{
+        width: 17%;
+        margin: 1.45%;
+    } 
+
+    .card p{
+        display: block;
+        width: 90%;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    #articles{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .caja{
+        width: 95%;
+    }
+
+    #articles article{
+        width: 97%;
+    }
+
+
+    #footer {
+        height: 550px;
+    }
+
+    
+    #footer  .wrap > div{
+     width: 24%;
+     
+     
+    }
+    
+    #footer #browsers img{
+        width: 12%;
+    }
+
+    #footer h5{
+        font-size: 30px;
+    }
+
+ 
+    
+}
+
+@media(max-width: 1080px){
+
+
+    #banner h1{
+
+    font-size: 50px;
+    text-align: center;
+    margin: 33px auto;
+}
+ .card .category{
+     font-size: 17px;
+ }
+ .card .description{
+     font-size: 14px;
+ }
+
+
+ #articles{
+    width: 97%;
+    margin-top: 10px;
+}
+
+#social{
+    height: 228px;
+}
+
+.icon{
+    height: 20px;
+}
+
+#blog{
+    margin-top: 95%;
+}
+
+.caja{
+    width: 92%;
+}
+
+#footer {
+    height: 800px;
+}
+
+
+#footer  .wrap > div{
+ width: 24%;
+ 
+ 
+}
+
+#footer #browsers img{
+    width: 10%;
+}
+
+#footer h5{
+    font-size: 25px;
+}
+
+
+#menu_footer ul li a{
+    width: 40%;
+
+}
+
+   
+}
+
+@media(max-width: 1055px){
+    .card .category{
+        font-size: 17px;
+    }
+    .card .description{
+        font-size: 14px;
+    }
+   
+   
+    #articles{
+       width: 95%;
+       margin-top: 10px;
+   }
+  
+
+   .caja{
+       width: 90%;
+   }
+   
+   #footer {
+       height: 550px;
+   }
+   
+   
+   #footer  .wrap > div{
+    width: 22%;
+    
+    
+   }
+   
+   #footer #browsers img{
+       width: 10%;
+   }
+   
+   #footer h5{
+       font-size: 22px;
+   }
+   
+   
+   #menu_footer ul li a{
+       width: 25%;
+   
+   }
+   
+      
+   }
+   
+   
+   
+
+
+@media(max-width: 1000px){
+
+    #principal{
+    float: left;
+    width: 65%;
+    height: 1500px;
+    background:white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #ccc;
+    margin-left: 20px;
+    padding: 20px;
+    overflow: hidden;    
+    background: url(../css/img/principal.jpg);    
+    background-repeat: no-repeat;
+    background-size: 374%; 
+    }   
+
+    #blog{
+        margin-top: 110%!important;
+    }
+    
+    .card .category{
+        font-size: 17px;
+    }
+    .card .description{
+        font-size: 14px;
+    }
+   
+  
+    #articles{
+       width: 97%;
+       margin-top: 10px;
+   }
+   
+   .caja{
+       width: 92%;
+   }
+
+  
+   #footer {
+    height: 550px;
+
+
+   }
+#footer  .wrap > div{
+ width: 22%;
+ 
+ 
+}
+
+#footer #browsers img{
+    width: 8%;
+}
+
+#footer h5{
+    font-size: 20px;
+}
+
+#menu_footer ul li a{
+    width: 8%;
+
+}
+
+
+}
+
+   
+
+@media (max-width: 970px){
+    #articles{
+        width: 92%;
+        margin-top: 10px;
+    }
+    
+    .caja{
+        width: 90%;
+    }
+    
+    #footer {
+        height: 550px;
+    }
+    
+    
+    #blog{
+        margin-top: 95%;
+    }
+    
+    #footer .wrap > div{
+        width: 25%;
+    }
+
+    #footer h5{
+        font-size: 20px;
+    }
+
+
+    
+
+
+}
+
+
+@media (max-width: 950px){
+
+
+    #articles{
+        width: 90%;
+        margin-top: 10px;
+    }
+    
+    .caja{
+        width: 85%;
+    }    
+    
+
+    #footer{
+     width: 100%;
+     margin-right:  55px;
+     height: 600px;
+    }
+    #footer .wrap > div{
+        width: 22%;
+    }
+
+    #footer h5{
+        font-size: 15px;
+    }
+
+    
+}
+
+@media (max-width: 925px){
+
+
+    #principal{
+        float: left;
+        width: 65%;
+        height: 1500px;
+        background:white;
+        border-radius: 5px;
+        box-shadow: 0px 0px 5px #ccc;
+        margin-left: 20px;
+        padding: 20px;
+        overflow: hidden;    
+        background: url(../css/img/principal.jpg);    
+        background-repeat: no-repeat;
+        background-size: 430%; 
+        }
+        
+        #blog{
+            margin-top: 130%!important;
+        }
+        
+    
+    #articles{
+        width: 85%;
+        margin-top: 10px;
+    }
+    
+    .caja{
+        width: 80%;
+    }
+    
+   #sidebar{
+    width: 25%;
+   }
+
+   #sidebar input[type="text"]{
+       width: 78%;
+   }
+
+   .aside-box{
+       width: 95%;
+       min-height: 140px;
+       height: auto;
+       padding-bottom: 10px;
+   }
+
+   
+   #login a{
+   margin-top: 10px;
+   margin-bottom: 10px;
+
+}
+
+   #login input[type="email"],
+   #login input[type="password"]{
+       width: 65%;
+   }
+
+   #login input[type="submit"],
+   #login input[type="button"],
+   #login input[type="reset"],
+   #login button{
+       margin-bottom: 0px;
+   }
+
+   #login input[type="reset"]{
+       display: none;
+   }
+   #footer {
+    height: 1050px;
+}
+
+
+
+#footer .wrap > div{
+    width: 25%;
+}
+
+#footer h5{
+    font-size: 20px;
+}
+
+
+
+}
+
+
+
+
+
+@media (max-width: 890px){
+    #sidebar h3{
+        font-size: 20px;
+
+    }
+  
+
+}
+
+
+@media (max-width: 799px){
+    #sidebar h1{
+        font-size: 29px;        
+    }
+    .card {
+        height: auto;
+    }
+    .card .category{
+        font-size: 15px;
+        margin-top: -23;
+    }
+    .card .description{
+      display: none;
+    }
+    #menu2{
+        width: 61%;
+    }
+
+    #footer img{
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+
+}
+@media (max-width: 732px){
+    #principal{
+        float: left;
+        width: 65%;
+        height: 1560px;
+        background:white;
+        border-radius: 5px;
+        box-shadow: 0px 0px 5px #ccc;
+        margin-left: 20px;
+        padding: 20px;
+        overflow: hidden;    
+        background: url(../css/img/principal.jpg);    
+        background-repeat: no-repeat;
+        background-size: 600%; 
+        }
+        
+        #blog{
+            margin-top: 160%!important;
+        }
+
+        #social{
+            height: 30%!important;
+        }
+
+}
+
+@media (max-width: 725px){
+
+
+    #principal{
+        float: left;
+        width: 65%;
+        height: 1530px;
+        background:white;
+        border-radius: 5px;
+        box-shadow: 0px 0px 5px #ccc;
+        margin-left: 20px;
+        padding: 20px;
+        overflow: hidden;    
+        background: url(../css/img/principal.jpg);    
+        background-repeat: no-repeat;
+        background-size: 550%; 
+        }
+        
+        #blog{
+            margin-top: 160%!important;
+        }
+        
+    #header{
+        width:100%;
+        height: 135px;
+        padding-top: 10px;
+    }
+
+    #logo{
+        float: none;
+        width: 65%;
+        height: 50%;
+        margin-left: 10px;
+        
+
+    }
+
+    #menu{
+        clear: both;
+        float: left;
+        width: 440px;
+        margin: 0px auto;
+    }
+
+    #sidebar input[type="text"]{
+        width: 70%;
+    }
+
+}
+
+
+
+@media (max-width: 660px){
+
+    #principal{
+        float: left;
+        width: 85%;
+        height: 900px;
+        background:white;
+        border-radius: 5px;
+        box-shadow: 0px 0px 5px #ccc;
+        margin-left: 20px;
+        padding: 20px;
+        overflow: hidden;    
+        background: url(../css/img/principal.jpg);    
+        background-repeat: no-repeat;
+        background-size: 500%; 
+        }
+        
+
+    #banner h1{
+        width: 80%;
+        font-size: 50px;
+        text-align: center;
+        margin: 33px auto;
+    }
+
+  
+
+    #sidebar{
+       float: none;
+       width: 100%;  
+       margin: 0px auto;
+       min-height: auto;
+       margin-top: 20px;
+    }
+
+    #sidebar input[type="text"] {
+     width: 93%;
+    }
+
+
+    #menu2{
+        width: 93%;
+        margin-top: 2px;
+        margin-right: 15%;        
+    }
+
+    #login input[type="email"],
+    #login input[type="password"] {
+    width: 90%;
+
+    }
+    
+    #articles{
+        float:none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+    } 
+ 
+    #footer{
+     height: auto;
+     padding-bottom: 40px;
+ }
+ 
+    #footer .wrap > div{
+     width: 100%;
+     margin: 0px auto;
+     margin-top: 20px;
+ }
+ 
+    #footer h5{
+     font-size: 25px;
+ }
+
+ #banner h1{
+    width: 80%;
+    font-size: 50px;
+    text-align: center;
+    margin: 33px auto;
+}
+
+.card .category{
+    font-size: 15px;
+}
+.card .description{
+    font-size: 12px;
+}
+
+.card{
+    width: 17%;
+    margin: 1.0%;
+} 
+
+.card p{
+    display: block;
+    width: 50%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+
+    
+}
+
+
+
+@media (max-width: 475px){
+  
+    #banner h1{
+        font-size: 45px;
+        text-align: center;
+        margin: 15px auto;
+       
+    }
+    #logo{
+        float: none;
+        width: 65%;
+        height: 50%;
+        margin-left: 10px;
+        
+
+    } 
+    #header{
+        width: 100%;
+        height: 275px;
+        padding-top: 10px;
+    }
+
+    #menu{
+        clear:both;
+        float:none;
+        width:100%;
+    }
+
+    #menu ul li {
+        width: 100%;
+        line-height: 52px;
+    }
+
+    #menu ul li a{
+        width: 100%;
+        line-height: 52px;
+    }
+
+    #menu ul li a:hover{
+        color: #300fe9;
+        transform: scale(1,1);
+        
+    }
+    #banner{
+    height: 85px;
+   }
+   
+
+    #sidebar input[type="text"] {
+    width: 85%;
+   }
+
+   .card .icon{
+ font-size: 30px;
+   }
+
+  .card:hover .icon{
+    font-size: 30px;
+   }
+
+  .card .category{
+    font-size: 12px;
+  }
+
+  #menu2{
+    width: 93%;
+    margin-top: 2px;
+    margin-right: 20%;        
+}
+
+
+  #article .caja{
+      float: none;
+      margin: -10px;
+      border-radius: 0px 0px 0px 0px;
+
+  }
+
+  #articles article h4{    
+      margin-top: 20px;
+
+  }
+
+}
+
+
+
+
+@media (max-width: 380px){
+
+  
+    #banner h1{
+        font-size: 35px;
+        text-align: center;
+        margin: 15px auto;
+       
+    }
+    
+    #logo  h3 {   
+       font-size: 15px;     
+        width: 50%;
+        height: 50%;
+        margin-left: 10px;       
+
+    } 
+
+      
+    #menu  ul li a{   
+        font-size: 25px;     
+         width: 70%;
+         height: 50%;
+         margin-left: 2px;
+         margin-top: 2px;       
+ 
+     } 
+     
+
+    .card .category{
+        font-size: 15px;
+    }
+    .card .description{
+        font-size: 12px;
+    }
+    
+    .card{
+        width: 16%;
+        margin: 1.0%;
+    } 
+    
+    .card p{
+        display: block;
+        width: 25%;
+        margin: 0px auto;
+        text-align: center;
+    }  
+
+   #menu2{
+        width: 85%;
+        
+    }
+  #menu2 ul  li a {
+    font-size: 12px;        
+}
+
+}
+    
+    @media (max-width: 232px){
+
+       
+    #banner h1{
+        font-size: 25px;        
+        margin: 15px auto;
+       
+    }
+        .wrap{
+            width: 60%;
+            margin: 0px auto;
+        }
+    
+        .card .category{
+            font-size: 15px;
+        }
+        .card .description{
+            font-size: 12px;
+        }
+        
+        .card{
+            width: 13%;
+            margin: 1.0%;
+        } 
+        
+        .card p{
+            display: block;
+            width: 25%;
+            margin: 0px auto;
+            text-align: center;
+        } 
+    } 
+        
+
